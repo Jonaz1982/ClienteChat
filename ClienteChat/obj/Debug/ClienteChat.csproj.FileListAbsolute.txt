@@ -1,0 +1,49 @@
+T:\ClienteChat\ClienteChat\bin\Debug\ClienteChat.exe.config
+T:\ClienteChat\ClienteChat\obj\Debug\ClienteChat.csprojResolveAssemblyReference.cache
+T:\ClienteChat\ClienteChat\obj\Debug\Principal.baml
+T:\ClienteChat\ClienteChat\obj\Debug\Principal.g.cs
+T:\ClienteChat\ClienteChat\obj\Debug\App.g.cs
+T:\ClienteChat\ClienteChat\obj\Debug\ClienteChat_MarkupCompile.cache
+T:\ClienteChat\ClienteChat\obj\Debug\ClienteChat.g.resources
+T:\ClienteChat\ClienteChat\obj\Debug\ClienteChat.Properties.Resources.resources
+T:\ClienteChat\ClienteChat\obj\Debug\ClienteChat.csproj.GenerateResource.Cache
+D:\Programación\ClienteChat\ClienteChat\ClienteChat\bin\Debug\ClienteChat.exe.config
+F:\Programación\ClienteChat\ClienteChat\ClienteChat\bin\Debug\ClienteChat.exe.config
+F:\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\ClienteChat.csprojResolveAssemblyReference.cache
+F:\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\Principal.baml
+F:\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\Principal.g.cs
+F:\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\App.g.cs
+F:\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\ClienteChat_MarkupCompile.cache
+F:\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\ClienteChat.g.resources
+F:\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\ClienteChat.Properties.Resources.resources
+F:\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\ClienteChat.csproj.GenerateResource.Cache
+F:\Programación\ClienteChat\ClienteChat\ClienteChat\bin\Debug\ClienteChat.exe
+F:\Programación\ClienteChat\ClienteChat\ClienteChat\bin\Debug\ClienteChat.pdb
+F:\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\ClienteChat.exe
+F:\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\ClienteChat.pdb
+I:\Universidad 2014\Semestre2\Programación\ClienteChat\ClienteChat\ClienteChat\bin\Debug\ClienteChat.exe.config
+I:\Universidad 2014\Semestre2\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\ClienteChat.exe
+I:\Universidad 2014\Semestre2\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\ClienteChat.pdb
+I:\Universidad 2014\Semestre2\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\ClienteChat.csprojResolveAssemblyReference.cache
+I:\Universidad 2014\Semestre2\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\Principal.baml
+I:\Universidad 2014\Semestre2\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\Principal.g.cs
+I:\Universidad 2014\Semestre2\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\App.g.cs
+I:\Universidad 2014\Semestre2\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\ClienteChat_MarkupCompile.cache
+I:\Universidad 2014\Semestre2\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\ClienteChat.g.resources
+I:\Universidad 2014\Semestre2\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\ClienteChat.Properties.Resources.resources
+I:\Universidad 2014\Semestre2\Programación\ClienteChat\ClienteChat\ClienteChat\obj\Debug\ClienteChat.csproj.GenerateResource.Cache
+I:\Universidad 2014\Semestre2\Programación\ClienteChat\ClienteChat\ClienteChat\bin\Debug\ClienteChat.exe
+I:\Universidad 2014\Semestre2\Programación\ClienteChat\ClienteChat\ClienteChat\bin\Debug\ClienteChat.pdb
+I:\Universidad 2014\Semestre2\Programación\ClienteGrupo\ClienteChat - Cristian\ClienteChat\ClienteChat\bin\Debug\ClienteChat.exe.config
+I:\Universidad 2014\Semestre2\Programación\ClienteGrupo\ClienteChat - Cristian\ClienteChat\ClienteChat\obj\Debug\ClienteChat.exe
+I:\Universidad 2014\Semestre2\Programación\ClienteGrupo\ClienteChat - Cristian\ClienteChat\ClienteChat\obj\Debug\ClienteChat.pdb
+I:\Universidad 2014\Semestre2\Programación\ClienteGrupo\ClienteChat - Cristian\ClienteChat\ClienteChat\bin\Debug\ClienteChat.exe
+I:\Universidad 2014\Semestre2\Programación\ClienteGrupo\ClienteChat - Cristian\ClienteChat\ClienteChat\bin\Debug\ClienteChat.pdb
+I:\Universidad 2014\Semestre2\Programación\ClienteGrupo\ClienteChat - Cristian\ClienteChat\ClienteChat\obj\Debug\ClienteChat.csprojResolveAssemblyReference.cache
+I:\Universidad 2014\Semestre2\Programación\ClienteGrupo\ClienteChat - Cristian\ClienteChat\ClienteChat\obj\Debug\Principal.baml
+I:\Universidad 2014\Semestre2\Programación\ClienteGrupo\ClienteChat - Cristian\ClienteChat\ClienteChat\obj\Debug\Principal.g.cs
+I:\Universidad 2014\Semestre2\Programación\ClienteGrupo\ClienteChat - Cristian\ClienteChat\ClienteChat\obj\Debug\App.g.cs
+I:\Universidad 2014\Semestre2\Programación\ClienteGrupo\ClienteChat - Cristian\ClienteChat\ClienteChat\obj\Debug\ClienteChat_MarkupCompile.cache
+I:\Universidad 2014\Semestre2\Programación\ClienteGrupo\ClienteChat - Cristian\ClienteChat\ClienteChat\obj\Debug\ClienteChat.g.resources
+I:\Universidad 2014\Semestre2\Programación\ClienteGrupo\ClienteChat - Cristian\ClienteChat\ClienteChat\obj\Debug\ClienteChat.Properties.Resources.resources
+I:\Universidad 2014\Semestre2\Programación\ClienteGrupo\ClienteChat - Cristian\ClienteChat\ClienteChat\obj\Debug\ClienteChat.csproj.GenerateResource.Cache

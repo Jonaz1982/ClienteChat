@@ -1,0 +1,60 @@
+﻿<Window x:Class="ClienteChat.Principal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chat" Height="550" Width="800" MaxHeight="550" MaxWidth="800" MinHeight="550" MinWidth="800" Loaded="Window_Loaded_1">
+    <DockPanel LastChildFill="True">
+        <ToolBar Height="44" DockPanel.Dock="Top">
+            <Button x:Name="btnConectar" Click="btnConectar_Click" ToolTip="Conectar con el Servicio">
+                <Image  Source="Imagenes\Conectar.jpg" />
+            </Button>
+            <Button x:Name="btnDesconectar" Click="btnDesconectar_Click" ToolTip="Desconectarse del Servicio">
+                <Image  Source="Imagenes\Stop.jpg" />
+            </Button>
+            <Button x:Name="btnEnviarArchivo" Click="btnEnviarArchivo_Click" ToolTip="Enviar Archivo" VerticalAlignment="Top">
+                <Image  Source="Imagenes\Adjuntar.jpg" />
+            </Button>
+            <Button x:Name="btnAbrirArchivo" Click="btnAbrirArchivo_Click" ToolTip="Enviar Archivo" VerticalAlignment="Top">
+                <Image  Source="Imagenes/Aceptar.gif" />
+            </Button>
+        </ToolBar>
+
+        <Grid DockPanel.Dock="Top" Height="420">
+        <Grid.Background>
+            <LinearGradientBrush>
+                <GradientStop Color="GreenYellow" Offset="0"/>
+                <GradientStop Color="White" Offset="0.5"/>
+                <GradientStop Color="LightSlateGray" Offset="0.9"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+
+        <Label x:Name="lblUsuario" Height="25" HorizontalAlignment="Left" Margin="179,200,0,0" VerticalAlignment="Top" Width="70">Usuario:
+        </Label>
+        <TextBox x:Name="txtUsuario" Height="23" Margin="277,200,313,0" VerticalAlignment="Top" />
+        <Label x:Name="lblIP"  HorizontalAlignment="Left" Margin="179,232,0,255"  Width="70">IP del Servicio:</Label>
+        <TextBox x:Name="txtIP" Margin="277,232,313,0" Text="localhost" Height="23" VerticalAlignment="Top" />
+
+        <ListBox x:Name="lstConversacion" Margin="10,92,167,54" />
+        <ListBox x:Name="lstUsuarios" HorizontalAlignment="Right" Margin="0,92,10,54" Width="139" SelectionChanged="lstUsuarios_SelectionChanged" />
+        <TextBox x:Name="txtMensaje" Height="39" Margin="10,0,313,10" VerticalAlignment="Bottom" />
+            <Button x:Name="btnEnviar" Click="btnEnviar_Click" Height="32" Margin="0,0,274,16" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="32">
+                <Image  Source="Imagenes\Enviar.jpg" />
+            </Button>
+
+        <Image x:Name="imgUsuarioActual" HorizontalAlignment="Left" Margin="10,0,0,0" Stretch="Fill" Width="60" Height="70" VerticalAlignment="Top" />
+        <Label x:Name="lblUsuarioActual" Height="46" HorizontalAlignment="Left" Margin="87,10,0,0" VerticalAlignment="Top" Width="255"  Foreground="White" FontSize="18" FontFamily="Verdana"></Label>
+
+        </Grid>
+        <StatusBar DockPanel.Dock="Bottom"  Height="50">
+            <StatusBarItem>
+                <TextBlock x:Name="lblEstadoConversacion" />
+            </StatusBarItem>
+            <StatusBarItem>
+                <TextBlock x:Name="lblEstadoEscribiendo" />
+            </StatusBarItem>
+            <StatusBarItem>
+                <TextBlock x:Name="lblEstadoEnvioArchivo" />
+            </StatusBarItem>
+        </StatusBar>
+    </DockPanel>
+</Window>
